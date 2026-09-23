@@ -1,37 +1,36 @@
 # Práctica 1: Suma de 5 números
 ## 1. Descripción del problema (Fase 1)
-<!-- Explica con tus palabras qué hace tu programa y para qué serviría en la vida real. Máximo 4 líneas. -->
-
+<sumar 5 numeros
 _____
 
 ## 2. Entradas y salidas (Fase 1)
 <!-- Define cada entrada y cada salida, con su tipo de dato y su objetivo. -->
 
 **Entradas:**
-1. _____
+1. in: 
+5 números 
 
 **Salidas:**
-1. _____
+1. suma de 5 números
 
 ## 3. Restricciones e invariante (Fase 1 y 2)
 
 **Restricciones** (¿qué debe cumplirse?):
-- _____
-- _____
+- datos numericos
+- 5 numeros
 
 **Decisión sobre negativos y decimales** (¿los acepto? ¿por qué?):
-_____
+Si, por que son datos numericos
 
 **Invariante** (¿qué es verdad después de cada vuelta del ciclo?):
-_____
+suma de 5 numeros, dato numerico
 
 ## 4. Casos resueltos a mano (Fase 1)
 
 | Caso | Números | Suma calculada a mano |
-|---|---|---|
-| 1 | _____ | _____ |
-| 2 | _____ | _____ |
-| 3 | _____ | _____ |
+1.- 1 2 3 4 5 = 15
+2.- 2.1, 0.1, 0.1, 0.1, 0.1 = 2.5
+3.- 3 2 5 5 10 = 30
 
 ## 5. Receta en pseudocódigo (Fase 2)
 <!-- Tu receta va en el archivo RECETA.md. Aquí solo responde las dos preguntas. -->
