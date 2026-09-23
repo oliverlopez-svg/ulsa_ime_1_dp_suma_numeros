@@ -33,7 +33,19 @@ suma de 5 numeros, dato numerico
 3.- 3 2 5 5 10 = 30
 
 ## 5. Receta en pseudocódigo (Fase 2)
-<!-- Tu receta va en el archivo RECETA.md. Aquí solo responde las dos preguntas. -->
+rooney@MacBook-Neo-de-Oliver ulsa_ime_1_dp_suma_numeros % ./suma
+ingresar numero
+1
+ingresar numero
+1
+ingresar numero
+1
+ingresar numero
+1
+ingresar numero
+1
+Suma de 5 numeros
+rooney@MacBook-Neo-de-Oliver ulsa_ime_1_dp_suma_numeros % 
 
 **¿Probé mi receta a mano con un caso?** Sí / No
 **¿Tuve que corregirla?** _____
@@ -46,18 +58,26 @@ g++ -Wall -Wextra -std=c++17 main.cpp -o suma
 ```
 
 ## 7. Ejemplo de ejecución (Fase 3)
-<!-- Pega aquí lo que muestra tu programa en pantalla con un caso normal. -->
-
-```
-_____
-```
+ingresar numero
+1
+ingresar numero
+1
+ingresar numero
+1
+ingresar numero
+1
+ingresar numero
+1
+Suma de 5 numeros
 
 ## 8. Experimentos (Fase 3)
 
 **Experimento A: ¿qué pasó al no inicializar `suma`?**
+no sumo
 _____
 
 **Experimento B (opcional): ¿qué pasó al usar `int` con 2.5?**
+no sumo
 _____
 
 ## 9. Tabla de pruebas (Fase 4)
@@ -72,6 +92,8 @@ _____
 | Caso propio 1 | _____ | _____ | _____ | _____ |
 | Caso propio 2 | _____ | _____ | _____ | _____ |
 
+*no suma los numeros
+
 ## 10. Bitácora de mejoras (Fase 4)
 
 | # | ¿Qué falló o qué quise mejorar? | ¿Qué cambié? | ¿Funcionó? |
@@ -79,6 +101,7 @@ _____
 | 1 | _____ | _____ | _____ |
 | 2 | _____ | _____ | _____ |
 
+que el codigo ejecute al sumar numeros
 **Reto elegido (opcional):** _____
 
 ## 11. Dudas para el profesor (Fase 3)
@@ -86,26 +109,26 @@ _____
 | Duda | Lo que ya intenté |
 |---|---|
 | _____ | _____ |
-
+pues que no suma
 ## 12. Reflexión final
 
 **¿Qué aprendí con esta práctica?**
-_____
+_____q significan cosas del codigo
 
 **Ahora que terminé, ¿qué cambiaría de mi proceso?**
-_____
+_____la receta
 
 **¿Qué fue lo más difícil y cómo lo resolví?**
-_____
+_____la sintaxis, aprendiendola
 
 **¿Qué pregunta me quedó sin responder?**
-_____
+_____por que no suma
 
 ## 13. Lista de verificación antes de entregar (Fase 5)
 
-- [ ] Llené todas las secciones (no quedan `_____`)
-- [ ] Mi programa compila sin advertencias
-- [ ] Probé todos los casos de la tabla
-- [ ] Hice al menos 3 commits con mensajes claros
-- [ ] Hice `git push` y verifiqué mi fork en GitHub
-- [ ] Entregué el enlace de mi fork en Classroom
+- [ ] Llené todas las secciones (no quedan `_____`)si
+- [ ] Mi programa compila sin advertencias. si
+- [ ] Probé todos los casos de la tabla. si
+- [ ] Hice al menos 3 commits con mensajes claros. si
+- [ ] Hice `git push` y verifiqué mi fork en GitHub. si
+- [ ] Entregué el enlace de mi fork en Classroom. si
